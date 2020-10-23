@@ -1,0 +1,8 @@
+import { NAME } from './constants';
+
+export const HOME_SEARCH_ACTION = `${NAME}_SEARCH_ACTION`;
+export const HOME_SEARCH_PENDING = `${NAME}_SEARCH_PENDING`;
+export const HOME_SEARCH_SUCCESS = `${NAME}_SEARCH_SUCCESS`;
+export const HOME_SEARCH_FAILED = `${NAME}_SEARCH_FAILED`;
+export const HOME_SEARCH_CANCELLED = `${NAME}_SEARCH_CANCELLED`;
+export const HOME_SEARCH_ERROR = `${NAME}_SEARCH_ERROR`;
